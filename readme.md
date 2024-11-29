@@ -9,11 +9,11 @@
     <img src="./assets/LEGO_logo.svg.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WOWERS</h3>
+  <h3 align="center">LEGO</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- KAHIT ANO (Optional)
+ The basic LEGO brick is made of acrylonitrile butadiene styrene (ABS) and has a simple design with studs on top and holes on the bottom for easy connection.
 </div>
 
 <br />
