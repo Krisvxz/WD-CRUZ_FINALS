@@ -57,13 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project is all about a Toy company named LEGO.  The purpose of this is to showcase the products and the services offered by Lego company. This repository composed of Html and bootstrap languages. It also inlclueds the files of the assets. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
