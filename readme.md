@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Lego | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Lego | A website for LEGO toy company. | https://krisvxz.github.io/WD-CRUZ_FINALS/ |
