@@ -62,9 +62,8 @@ The project is all about a Toy company named LEGO.  The purpose of this is to sh
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website Website
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
